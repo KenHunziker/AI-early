@@ -1,0 +1,17 @@
+From: https://towardsdatascience.com/build-and-deploy-your-first-machine-learning-web-app-e020db344a99
+https://towardsdatascience.com/@moez_62905
+https://towardsdatascience.com/deploy-machine-learning-pipeline-on-cloud-using-docker-container-bec64458dc01
+
+PyCaret (ML) -> Flast (Build front-end) -> GitHub (host repository/source code) -> Heroku (host web endpoint for ML)
+
+Do I need to do ASGI - asynchronous? Starlette vs Flast?
+
+
+From FastAI course:  https://course.fast.ai/deployment_render.html
+
+Render.com
+
+
+
+
+
